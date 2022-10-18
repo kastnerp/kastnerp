@@ -1,4 +1,4 @@
-A product person at heart &mdash; passionate about empowering people by finding, implementing & scaling solutions to systemic problems.
+I am passionate about empowering people by finding, implementing & scaling solutions to systemic problems.
 
 Currently, I am interested in environmental modeling to inform the multi-objective decision making of architects and urban planners. My current project is [Eddy3D](https://www.eddy3d.com), a performance-driven design toolkit to predict outdoor thermal comfort in cities.
 Eddy3D is currently used at KPF, Henning Larsen, Gensler, and Foster & Partners, and by researchers and educators at institutions including the TU Munich, AIT, ETH, MIT, UPenn, University of Toronto, Harvard, and Cornell.
